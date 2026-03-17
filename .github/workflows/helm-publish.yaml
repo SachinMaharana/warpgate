@@ -14,7 +14,7 @@ env:
   CHART_NAME: warpgate
   CHART_PATH: helm/warpgate
   # OCI reference must be lowercase
-  OCI_REPO: oci://ghcr.io/sachinmaharana
+  OCI_REPO: oci://ghcr.io/sachinmaharana/helm-charts
 
 jobs:
   lint:
